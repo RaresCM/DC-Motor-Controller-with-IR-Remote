@@ -14,6 +14,8 @@ This project was built to apply concepts from my EEE course as well as module in
 * PWM driven L293D for the motor speed
 * 9V external power for the motor
 * Slow speed reduction logic when changing direction to avoid overloading the IC with a back voltage spike
+* Multiple incremental speed settings using fast forward and backwards buttons on the remote
+* Dedicated On and Off buttons on the remote
 
 ## Repository Structure
 - /main.c - The main code for the clock to be uploaded to the chip
