@@ -5,8 +5,7 @@
 ## Overview
 My custom simple DC motor driver built on a ATmega 2560 development board platform in bare metal C. The build uses a standard 9V DC motor, a L293D Darlington Pair IC for the forward and backward DC motor operations, a common IR receiver module, a common IR remote control and an external 9V supply for the IC.
 
-
-
+![Demonstration](motorcontroller.gif)
 
 ## Key Features
 This project was built to apply concepts from my EEE course as well as module integration and features:
